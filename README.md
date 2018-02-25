@@ -1,2 +1,2 @@
 # Parkmour
-A project for HackTCNJ
+A two-dimensional puzzle platforming computer game for HackTCNJ
